@@ -1,0 +1,9 @@
+C:\Projects\AutoMapperLibrary\MappedObjectLibrary.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\AutoMapperLibrary\MappedObjectLibrary.Tests\bin\Debug\MappedObjectLibrary.Tests.dll
+C:\Projects\AutoMapperLibrary\MappedObjectLibrary.Tests\bin\Debug\MappedObjectLibrary.Tests.pdb
+C:\Projects\AutoMapperLibrary\MappedObjectLibrary.Tests\bin\Debug\MappedObjectLibrary.dll
+C:\Projects\AutoMapperLibrary\MappedObjectLibrary.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\AutoMapperLibrary\MappedObjectLibrary.Tests\bin\Debug\MappedObjectLibrary.pdb
+C:\Projects\AutoMapperLibrary\MappedObjectLibrary.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\AutoMapperLibrary\MappedObjectLibrary.Tests\obj\Debug\MappedObjectLibrary.Tests.dll
+C:\Projects\AutoMapperLibrary\MappedObjectLibrary.Tests\obj\Debug\MappedObjectLibrary.Tests.pdb
