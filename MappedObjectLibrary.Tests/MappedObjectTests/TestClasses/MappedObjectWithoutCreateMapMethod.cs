@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace MappedObjectLibrary.Tests.TestClasses
+namespace MappedObjectLibrary.Tests.MappedObjectTests.TestClasses
 {
 	[MappedObject]
 	public class MappedObjectWithoutCreateMapMethod

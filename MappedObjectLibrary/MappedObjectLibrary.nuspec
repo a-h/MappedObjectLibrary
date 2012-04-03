@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MappedObjectLibrary</id>
+    <version>1.2</version>
+    <title>MappedObject</title>
+    <authors>a-h</authors>
+    <owners>a-h</owners>
+    <projectUrl>https://github.com/a-h/MappedObjectLibrary</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Initializes AutoMapper Mapper.CreateMap statements.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>AutoMapper</tags>
+  </metadata>
+</package>

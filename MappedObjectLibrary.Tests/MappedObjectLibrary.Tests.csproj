@@ -44,12 +44,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MappedObjectTest.cs" />
+    <Compile Include="MappedObjectTests\MappedObjectTest.cs" />
+    <Compile Include="MappedTypeTests\MappedTypeTest.cs" />
+    <Compile Include="MappedTypeTests\TestClasses\MappedTypeExampleWithConstructor.cs" />
+    <Compile Include="MappedTypeTests\TestClasses\MappedTypeExample.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TestClasses\MappedObjectWithCreateMapMethodWhichThrowsException.cs" />
-    <Compile Include="TestClasses\MappedObjectWithCreateMapMethod.cs" />
-    <Compile Include="TestClasses\MappedObjectWithoutCreateMapMethod.cs" />
-    <Compile Include="TestClasses\ObjectWithCreateMapMethodButNoAttribute.cs" />
+    <Compile Include="MappedObjectTests\TestClasses\MappedObjectWithCreateMapMethodWhichThrowsException.cs" />
+    <Compile Include="MappedObjectTests\TestClasses\MappedObjectWithCreateMapMethod.cs" />
+    <Compile Include="MappedObjectTests\TestClasses\MappedObjectWithoutCreateMapMethod.cs" />
+    <Compile Include="MappedObjectTests\TestClasses\ObjectWithCreateMapMethodButNoAttribute.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MappedObjectLibrary\MappedObjectLibrary.csproj">

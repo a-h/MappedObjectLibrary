@@ -88,12 +88,12 @@ namespace MappedObjectLibrary
 
 			foreach (var t in noCreateMapMethodErrors)
 			{
-				string.Format("(Exception) {0} has a CreateMap method, but not the MappedObjectAttribute.", t.FullName);
+				sb.AppendLine(string.Format("(Exception) {0} has a CreateMap method, but not the MappedObjectAttribute.", t.FullName));
 			}
 
 			foreach (var t in errors)
 			{
-				string.Format("(Exception) {0} failed with exception - {1}.", t.Item1.FullName, t.Item2.Message);
+				sb.AppendLine(string.Format("(Exception) {0} failed with exception - {1}", t.Item1.FullName, t.Item2.Message));
 			}
 
 			if ((throwOnWarnings && warnings.Count > 0) || (errors.Count > 0 || noCreateMapMethodErrors.Count > 0))

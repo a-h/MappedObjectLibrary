@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using NUnit.Framework;
-using MappedObjectLibrary.Tests.TestClasses;
+using MappedObjectLibrary.Tests.MappedObjectTests.TestClasses;
 
-namespace MappedObjectLibrary.Tests
+namespace MappedObjectLibrary.Tests.MappedObjectTests
 {
 	[TestFixture]
 	public class MappedObjectTest
