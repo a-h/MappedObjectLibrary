@@ -1,3 +1,10 @@
 bin
 obj
 .suo
+*.dll
+*.pdb
+MappedObjectLibrary.Tests/MappedObjectLibrary.Tests.v2.ncrunchproject
+*.ncrunchproject
+_NCrunch_MappedObjectLibrary/MappedObjectLibrary.crunchsolution.cache
+*.ncrunchsolution
+MappedObjectLibrary.ncrunchsolution.user
